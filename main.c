@@ -6,6 +6,7 @@ struct student
    // char name [10];
     //char *Name;
     char a;
+    int b;
 } ali;
 
 struct student *pali;
